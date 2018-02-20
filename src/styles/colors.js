@@ -1,0 +1,1 @@
+export const fundo = '#61BD8C';
